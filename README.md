@@ -1,5 +1,4 @@
 # PWA_Mario
-Projet Master 1 : Programmation Web Avancée
 
 Dans le cadre de l’unité d’enseignement de programmation objet avancée de département informatique de l’université Paris Sud, il a été demandé aux étudiants de Master 1, d’effectuer un jeu de plates-formes en Javascript. Le projet était à réaliser en binôme.
 

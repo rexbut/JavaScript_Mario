@@ -4,7 +4,7 @@ Dans le cadre de l’unité d’enseignement de programmation objet avancée de 
 
 L’objectif du projet était de réaliser un jeu de plates-formes similaire à Mario. Dans un tel jeu, un personnage, contrôlé par le joueur au moyen du clavier évolue dans un monde en deux dimensions, vu de profil. Le but du jeu est de parcourir un niveau en évitant une suite d’obstacles pour atteindre la sortie.
 
-(![Plus d'informations](RAPPORT_BUTET_LI.pdf))
+([Plus d'informations](RAPPORT_BUTET_LI.pdf))
 
 ## Démonstration
-Site de ![démonstration](https://www.evercraft.fr/butet/pwa_mario/index.html)
+Site de [démonstration](https://www.evercraft.fr/butet/pwa_mario/index.html)

@@ -1,4 +1,4 @@
-# PWA_Mario
+# JavaScript_Mario
 
 Dans le cadre de l’unité d’enseignement de programmation objet avancée de département informatique de l’université Paris Sud, il a été demandé aux étudiants de Master 1, d’effectuer un jeu de plates-formes en Javascript. Le projet était à réaliser en binôme.
 
@@ -7,4 +7,4 @@ L’objectif du projet était de réaliser un jeu de plates-formes similaire à 
 ([Plus d'informations](RAPPORT_BUTET_LI.pdf))
 
 ## Démonstration
-Site de [démonstration](https://rexbut.github.io/projets/pwa_mario/)
+Site de [démonstration](https://rexbut.github.io/projets/javascript_mario/)

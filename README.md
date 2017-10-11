@@ -7,4 +7,4 @@ L’objectif du projet était de réaliser un jeu de plates-formes similaire à 
 ([Plus d'informations](RAPPORT_BUTET_LI.pdf))
 
 ## Démonstration
-Site de [démonstration](https://www.evercraft.fr/butet/pwa_mario/index.html)
+Site de [démonstration](https://rexbut.github.io/projets/pwa_mario/)
